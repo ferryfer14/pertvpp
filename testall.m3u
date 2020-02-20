@@ -225,9 +225,6 @@ https://profdrachmadferry.shortcm.li/beinsp1sd
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
 https://profdrachmadferry.shortcm.li/beinsp2hd
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-https://profdrachmadferry.shortcm.li/bein2sd
-
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
 https://profdrachmadferry.shortcm.li/bein3hd
 
@@ -240,23 +237,14 @@ https://profdrachmadferry.shortcm.li/bein4sd
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
 https://profdrachmadferry.shortcm.li/bein5hd
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-https://profdrachmadferry.shortcm.li/bein5sd
-
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://skdn.redi-vo.com/iptv/ch8116?code=103131497823984&key=29929
+https://profdrachmadferry.shortcm.li/bein6
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+https://profdrachmadferry.shortcm.li/Bein7hd
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://skdn.redi-vo.com/iptv/ch8117?code=103131497823984&key=24135
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
+https://profdrachmadferry.shortcm.li/Bein7sd
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://skdn.redi-vo.com/iptv/ch8118?code=103131497823984&key=39883
+https://profdrachmadferry.shortcm.li/Bein8sd
