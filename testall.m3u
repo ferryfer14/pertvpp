@@ -150,14 +150,11 @@ https://profdrachmadferry.shortcm.li/foxsp2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 3 HD
 https://profdrachmadferry.shortcm.li/foxsp3
 
-#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORTS",SKYNET SPORT 1
-https://profdrachmadferry.shortcm.li/skynet1
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
+https://profdrachmadferry.shortcm.li/SkyFootball
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORTS",SKYNET SPORT 5
-https://profdrachmadferry.shortcm.li/sknet5
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS",SKYNET SPORT 6
-https://profdrachmadferry.shortcm.li/skynet6
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
+https://profdrachmadferry.shortcm.li/SkyPremierLeague
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
 https://profdrachmadferry.shortcm.li/true1
