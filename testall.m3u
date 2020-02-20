@@ -124,6 +124,30 @@ https://profdrachmadferry.shortcm.li/nick
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" group-title="PREMIUM",First Movie
 https://profdrachmadferry.shortcm.li/firstm
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/celestial.png" group-title="PREMIUM",Celestial Movies
+https://profdrachmadferry.shortcm.li/Cmv
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ccm.png" group-title="PREMIUM",Celestial Classic Movies
+https://profdrachmadferry.shortcm.li/ccm
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/scm.png" group-title="PREMIUM",Star Chinese Movies
+https://profdrachmadferry.shortcm.li/scm
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fam.png" group-title="PREMIUM",FOX Action Movies
+https://profdrachmadferry.shortcm.li/foxac
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hitsmovies.png" group-title="PREMIUM",HITS Movies
+https://profdrachmadferry.shortcm.li/hitz
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cinemaworld.png" group-title="PREMIUM",Cinema World
+https://profdrachmadferry.shortcm.li/cinema
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="PREMIUM",Thrill
+https://profdrachmadferry.shortcm.li/thrill1
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7oR9Zj.gif" group-title="KIDS",Animax
+https://profdrachmadferry.shortcm.li/animax
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
 https://profdrachmadferry.shortcm.li/anip
