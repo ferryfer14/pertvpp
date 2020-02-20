@@ -207,6 +207,10 @@ https://profdrachmadferry.shortcm.li/mncsp1
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-sio4uUWWoTQ/ULjgSh_LQ8I/AAAAAAAAFxs/_x9py_9h8mw/s1600/MNC-Sport-2-live-streaming.jpg" group-title="SPORTS", MNC SPORTS 2
 https://profdrachmadferry.shortcm.li/mncsp2
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",Liga Champions
+https://profdrachmadferry.shortcm.li/Champ
+
+
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
 https://profdrachmadferry.shortcm.li/beinnews
 
@@ -245,3 +249,20 @@ https://profdrachmadferry.shortcm.li/Bein7sd
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
 https://profdrachmadferry.shortcm.li/Bein8sd
+
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 TR
+https://profdrachmadferry.shortcm.li/bein1tr
+
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 TR
+https://profdrachmadferry.shortcm.li/bein2tr
+
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 TR
+https://profdrachmadferry.shortcm.li/bein3tr
+
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 TR
+https://profdrachmadferry.shortcm.li/bein4tr
+
+#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1220.png",Bein Sport Laliga
+https://profdrachmadferry.shortcm.li/beinlaliga
+
+
