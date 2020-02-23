@@ -234,6 +234,27 @@ https://profdrachmadferry.shortcm.li/mncsp2
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",Liga Champions
 https://profdrachmadferry.shortcm.li/Champ
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/mutv.png" group-title="SPORTS",MUTV
+https://profdrachmadferry.shortcm.li/mutv
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/lfctv.png" group-title="SPORTS",LFC TV
+https://profdrachmadferry.shortcm.li/lfc
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss1.png" group-title="ZAL-SPORTS",SuperSport 1
+https://profdrachmadferry.shortcm.li/ss1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss2.png" group-title="ZAL-SPORTS",SuperSport 2
+https://profdrachmadferry.shortcm.li/ss2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss3.png" group-title="ZAL-SPORTS",SuperSport 3
+https://profdrachmadferry.shortcm.li/ss3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss4.png" group-title="ZAL-SPORTS",SuperSport 4
+https://profdrachmadferry.shortcm.li/ss4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss5.png" group-title="SPORTS",SuperSport 5
+https://profdrachmadferry.shortcm.li/ss5
+
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
 https://profdrachmadferry.shortcm.li/beinnews
