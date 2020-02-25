@@ -225,20 +225,20 @@ https://profdrachmadferry.shortcm.li/ing4
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORTS",Premier Football HD 5
 https://profdrachmadferry.shortcm.li/ing5
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="SPORTS",Sport TV 1
-https://profdrachmadferry.shortcm.li/sp1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="SPORTS",Sport TV 2
-https://profdrachmadferry.shortcm.li/sp2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsWZLRd/arena-sport-rs-2.png" group-title="SPORTS",ARENA SPORT 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="SPORTS",Sport TV 3
-https://profdrachmadferry.shortcm.li/sp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1CzDHV/arena-sport-hr-3.png" group-title="SPORTS",ARENA SPORT 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ojlWNjVP4KA/XY8vsTMvnEI/AAAAAAAAomM/qZyUy6wzZuoYWODKI7vpaMVPopoOkE3hgCLcBGAsYHQ/s1600/champions-tv-1-channel-logo.png" group-title="SPORTS", Champions TV 1
-https://profdrachmadferry.shortcm.li/champ1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1zWpdPs/arena-sport-hr-4.png" group-title="SPORTS",ARENA SPORT 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ojlWNjVP4KA/XY8vsTMvnEI/AAAAAAAAomM/qZyUy6wzZuoYWODKI7vpaMVPopoOkE3hgCLcBGAsYHQ/s1600/champions-tv-1-channel-logo.png" group-title="SPORTS", Champions TV 2
-https://profdrachmadferry.shortcm.li/champ2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ck2wZL3/arena-sport-rs-5.png" group-title="SPORTS",ARENA SPORT 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4tax5YmOiNU/hqdefault.jpg" group-title="SPORTS", TVRI SPORTS
 https://profdrachmadferry.shortcm.li/tvrisp
