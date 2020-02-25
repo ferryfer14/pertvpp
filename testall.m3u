@@ -177,6 +177,24 @@ https://profdrachmadferry.shortcm.li/foxsp2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 3 HD
 https://profdrachmadferry.shortcm.li/foxsp3
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky1.png" group-title="SPORTS",Skynet Sports 1
+https://profdrachmadferry.shortcm.li/sky1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky2.png" group-title="SPORTS",Skynet Sports 2
+https://profdrachmadferry.shortcm.li/sky2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky3.png" group-title="SPORTS",Skynet Sports 3
+https://profdrachmadferry.shortcm.li/sky3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky4.png" group-title="SPORTS",Skynet Sports 4
+https://profdrachmadferry.shortcm.li/sky4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky5.png" group-title="SPORTS",Skynet Sports 5
+https://profdrachmadferry.shortcm.li/sky5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/sky6.png" group-title="SPORTS",Skynet Sports 6
+https://profdrachmadferry.shortcm.li/sky6
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://tvbeta.my.id/logos/tivi/skyhd.png",Sky Sport HD
 https://profdrachmadferry.shortcm.li/skyhd
 
