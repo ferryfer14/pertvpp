@@ -226,19 +226,19 @@ https://profdrachmadferry.shortcm.li/ing4
 https://profdrachmadferry.shortcm.li/ing5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
-http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+https://profdrachmadferry.shortcm.li/arena1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsWZLRd/arena-sport-rs-2.png" group-title="SPORTS",ARENA SPORT 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+https://profdrachmadferry.shortcm.li/arena2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1CzDHV/arena-sport-hr-3.png" group-title="SPORTS",ARENA SPORT 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+https://profdrachmadferry.shortcm.li/arena3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1zWpdPs/arena-sport-hr-4.png" group-title="SPORTS",ARENA SPORT 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+https://profdrachmadferry.shortcm.li/arena4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ck2wZL3/arena-sport-rs-5.png" group-title="SPORTS",ARENA SPORT 5
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+https://profdrachmadferry.shortcm.li/arena5
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4tax5YmOiNU/hqdefault.jpg" group-title="SPORTS", TVRI SPORTS
 https://profdrachmadferry.shortcm.li/tvrisp
