@@ -273,20 +273,11 @@ https://profdrachmadferry.shortcm.li/mutv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg" group-title="SPORTS",LFC TV
 https://profdrachmadferry.shortcm.li/lfc
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss1.png" group-title="SPORTS",SuperSport 1
-https://profdrachmadferry.shortcm.li/ss1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
+http://streamku.live:8888/live/masmuto/masmuto20/504.ts
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss2.png" group-title="SPORTS",SuperSport 2
-https://profdrachmadferry.shortcm.li/ss2
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss3.png" group-title="SPORTS",SuperSport 3
-https://profdrachmadferry.shortcm.li/ss3
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss4.png" group-title="SPORTS",SuperSport 4
-https://profdrachmadferry.shortcm.li/ss4
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ss5.png" group-title="SPORTS",SuperSport 5
-https://profdrachmadferry.shortcm.li/ss5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
+http://streamku.live:8888/live/masmuto/masmuto20/505.ts
 
 
 
