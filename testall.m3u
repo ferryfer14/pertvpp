@@ -223,3 +223,45 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/37
 #EXTINF:0 tvg-id="SonyESPN.in" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS",Sport TV 1
+http://skdn.redi-vo.com/iptv/ch2123?code=103131497823984&key=48317
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="SPORTS",Sport TV 2
+http://skdn.redi-vo.com/iptv/ch2124?code=103131497823984&key=23461
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS",Sport TV 3
+http://skdn.redi-vo.com/iptv/ch2125?code=103131497823984&key=54310
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS",Sport TV 4
+http://skdn.redi-vo.com/iptv/ch2126?code=103131497823984&key=18673
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS",Sport TV 5
+http://skdn.redi-vo.com/iptv/ch2127?code=103131497823984&key=49822
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORTS+",Arena Sport 1 HR HD
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORTS+",Arena Sport 1 HR HD Backup
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORTS+",Arena Sport 2 HR HD
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORTS+",Arena Sport 2 HR HD Backup
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="SPORTS+",Arena Sport 3 HR HD
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="SPORTS+",Arena Sport 4 HR HD
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="SPORTS+",CBS SPORTS HD
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/169
+#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORTS+",TSN 1 HD
+http://ok2.se:8000/2ea0F7UJjBoGdgfvc/6412F9UMdvmPybQDQ/138
+#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORTS+",TSN 2 HD
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/139
+#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORTS+",TSN 3 HD
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/140
+#EXTINF:0 tvg-id="TSN4.ca" group-title="SPORTS+",TSN 4 HD
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/141
+#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORTS+",TSN 5 HD
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/142
+#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 1
+http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
+#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 2
+http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
+#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 3
+http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
+#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 4
+http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
