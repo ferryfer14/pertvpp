@@ -265,3 +265,46 @@ http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
 http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
 #EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 4
 http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="SPORT",LIGA SHOPEE HD
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcCsc8wL/INDO-Sports-2-HD2.png" group-title="SPORT",INDO Sports 2 HD
+http://125.227.210.37:8886/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0dXfFbm/tvri-sport-hd.png" group-title="SPORT", TVRI SPORT HD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM74JmWD/tvri-sport-hd.png" group-title="SPORT", TVRI OLAHRAGA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="SPORT",MNC SPORT
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="SPORT",MNC SPORT 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT SPORTS
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT SPORT
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV | DEP (F)" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/MUtv.jpg" group-title="SPORT",MU TV
+http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14939.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1ygQRdJ/foxsport1.png" group-title="SPORT",FOX Sport 1
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjFRJGjc/foxsport2.png" group-title="SPORT",FOX Sport 2
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="SPORT",BeinSport Xtra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym8G6zx/Champions-tv-1.png" group-title="SPORT",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORT",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254447/logo_liga_champions2-169.jpg" group-title="SPORT",SONY TEN1 WWE
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254447/logo_liga_champions2-169.jpg" group-title="SPORT",SONY TEN2 TENNIS
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+#EXTINF:-1 group-title="SPORT", PACUAN KUDA
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT", SABUNG AYAM
+https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
