@@ -168,15 +168,87 @@ https://profdrachmadferry.shortcm.li/duck
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
 https://profdrachmadferry.shortcm.li/fig
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 1 HD
-https://profdrachmadferry.shortcm.li/foxsp
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 2 HD
-https://profdrachmadferry.shortcm.li/foxsp2
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 3 HD
-https://profdrachmadferry.shortcm.li/foxsp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM", [TH]FOXCRIME1
+http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", MBC MAX(2)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM", Starmovies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM", StarWorld
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM", MBC2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="SUB PREMIUM", FilmBox Extra
+http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", FILMBOXPLUS
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="SUB PREMIUM", FilmBox Plus
+http://84.22.33.254/unicast.filmboxplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", FILMBOXARTHOUSE
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="SUB PREMIUM", FilmBox ArtHouse
+http://84.22.33.254/unicast.arthouse/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", 7 HD
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SkyStar
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYACTION
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYCOMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYMAX
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYShqip
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", BIGBANG THEORY
+http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET8 sport
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT SD
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT2 SD
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT3 SD
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="SPORTS", Chelsea TV
+http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORTS", Man U TV
+http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", OLYMPIC Channel
+https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8?stime=1554365712&etime=1554366012&m=1552468505
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", RTSH SPORT
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:0 tvg-id="SportKlub1.rs" group-title="SPORTS",SK 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 #EXTINF:0 tvg-id="SportKlub1.rs" group-title="SPORTS",SK 1 Backup
