@@ -90,7 +90,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="LOKAL", TVRI
-https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_2499968=6-mp4a_98800_eng=5.m3u8
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNC-Vision-Prime.jpgg" group-title="LOKAL", VISION PRIME
 https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_2499968=7-mp4a_98800_eng=3.m3u8
