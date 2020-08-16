@@ -1,380 +1,881 @@
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NASIONAL",CNN Indonesia HD
-https://profdrachmadferry.shortcm.li/cnn
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/tYJDz5w/cnbcindlogo.jpg" group-title="NASIONAL",CNBC Indonesia HD
-https://profdrachmadferry.shortcm.li/cnbc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="NASIONAL",RCTI
-https://profdrachmadferry.shortcm.li/rcti
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Logo_MNC.svg" group-title="NASIONAL",MNC
-https://profdrachmadferry.shortcm.li/mnctv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="NASIONAL",ANTV
-https://profdrachmadferry.shortcm.li/antv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-https://profdrachmadferry.shortcm.li/sctv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
-https://profdrachmadferry.shortcm.li/indosiar
-
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2019/08/09/83f70b35-a611-42da-a4d7-69d341fdffff_169.jpeg?w=650" group-title="NASIONAL",NET TV
-https://profdrachmadferry.shortcm.li/nettv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="NASIONAL",GLOBAL TV
-https://profdrachmadferry.shortcm.li/gtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1200px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7
-https://profdrachmadferry.shortcm.li/trans7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="NASIONAL",TV ONE
-https://profdrachmadferry.shortcm.li/tvone
-
-#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="NASIONAL",TRANS TV
-https://profdrachmadferry.shortcm.li/transtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL",INEWS
-https://profdrachmadferry.shortcm.li/inews
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",RTV
-https://profdrachmadferry.shortcm.li/rtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="NASIONAL",METRO TV
-https://profdrachmadferry.shortcm.li/metrotv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20181020023802%21Logo-Kompas_TV.png" group-title="NASIONAL",KOMPAS TV
-https://profdrachmadferry.shortcm.li/kompas
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NASIONAL",BERITA SATU
-https://profdrachmadferry.shortcm.li/berita1
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NASIONAL",USEE PRIME
-https://profdrachmadferry.shortcm.li/prime
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NASIONAL",RUANG TERAMPIL
-https://profdrachmadferry.shortcm.li/ruang
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NASIONAL",TVRI
-https://profdrachmadferry.shortcm.li/tvri
-
-
-#EXTINF:-1 tvg-id="effdd8733b4152f87f57d69579126dca" group-title="PREMIUM",Animal Planet
-https://profdrachmadferry.shortcm.li/animal
-
-#EXTINF:-1 tvg-id="b72498b4f3e893f18e989457613132a6" group-title="PREMIUM",AXN
-https://profdrachmadferry.shortcm.li/axn1
-
-#EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="PREMIUM",BBC World News
-https://profdrachmadferry.shortcm.li/bbc
-
-#EXTINF:-1 tvg-id="1bc079cdec765f993747d5bfb7e6ffc8" group-title="PREMIUM",Blue Ant Extreme
-https://profdrachmadferry.shortcm.li/blue
-
-#EXTINF:-1 tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="PREMIUM",Cartoon Network
-https://profdrachmadferry.shortcm.li/cartoon
-
-#EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="PREMIUM",Cinemax
-https://profdrachmadferry.shortcm.li/cinemax
-
-#EXTINF:-1 tvg-id="18ab304fb5f71666923b59dc3a6612ea" group-title="PREMIUM",CNN International
-https://profdrachmadferry.shortcm.li/cnninter
-
-#EXTINF:-1 tvg-id="6013a944b7c00a19df095962b7a3e9ab" group-title="PREMIUM",Discovery Channel
-https://profdrachmadferry.shortcm.li/discovery
-
-#EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="PREMIUM",Disney Channel
-https://profdrachmadferry.shortcm.li/disney
-
-#EXTINF:-1 tvg-id="1898e5f1491a595474f3401d6021a161" group-title="PREMIUM",FOX
-https://profdrachmadferry.shortcm.li/fox
-
-#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="PREMIUM",FOX Family Movies
-https://profdrachmadferry.shortcm.li/foxfm
-
-#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5" group-title="PREMIUM",Fox Movies
-https://profdrachmadferry.shortcm.li/foxm
-
-#EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="PREMIUM",HBO Family
-https://profdrachmadferry.shortcm.li/hbofm
-
-#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="PREMIUM",HBO
-https://profdrachmadferry.shortcm.li/hbohd
-
-#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="PREMIUM",HBO Hits
-https://profdrachmadferry.shortcm.li/hboh
-
-#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673" group-title="PREMIUM",HBO Signature
-https://profdrachmadferry.shortcm.li/hbosig
-
-#EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="PREMIUM",History Channel
-https://profdrachmadferry.shortcm.li/his
-
-#EXTINF:-1 tvg-id="f1b77042d9150c7f066952c67e0f9480" group-title="PREMIUM",NAT GEO People
-https://profdrachmadferry.shortcm.li/natgeop
-
-#EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" group-title="PREMIUM",NAT GEO Wild
-https://profdrachmadferry.shortcm.li/natgewild
-
-#EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" group-title="PREMIUM",National Geographic
-https://profdrachmadferry.shortcm.li/natge
-
-#EXTINF:-1 tvg-id="6481ae2680f7ea45c5a379af51eefd44" group-title="PREMIUM",Nickelodeon Asia
-https://profdrachmadferry.shortcm.li/nick
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" group-title="PREMIUM",First Movie
-https://profdrachmadferry.shortcm.li/firstm
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/celestial.png" group-title="PREMIUM",Celestial Movies
-https://profdrachmadferry.shortcm.li/Cmv
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/ccm.png" group-title="PREMIUM",Celestial Classic Movies
-https://profdrachmadferry.shortcm.li/ccm
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/scm.png" group-title="PREMIUM",Star Chinese Movies
-https://profdrachmadferry.shortcm.li/scm
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fam.png" group-title="PREMIUM",FOX Action Movies
-https://profdrachmadferry.shortcm.li/foxac
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/hitsmovies.png" group-title="PREMIUM",HITS Movies
-https://profdrachmadferry.shortcm.li/hitz
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/cinemaworld.png" group-title="PREMIUM",Cinema World
-https://profdrachmadferry.shortcm.li/cinema
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="PREMIUM",Thrill
-https://profdrachmadferry.shortcm.li/thrill1
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7oR9Zj.gif" group-title="KIDS",Animax
-https://profdrachmadferry.shortcm.li/animax
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
-https://profdrachmadferry.shortcm.li/anip
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior
-https://profdrachmadferry.shortcm.li/disjun
-
-#EXTINF:-1 tvg-id="9836fd0e31a19540234d0fe226ec84af"  group-title="KIDS",Cartoon Network
-https://profdrachmadferry.shortcm.li/cartoonnn
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",Duck TV
-https://profdrachmadferry.shortcm.li/duck
-
-
-#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
-https://profdrachmadferry.shortcm.li/fig
-
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM", [TH]FOXCRIME1
-http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", MBC MAX(2)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", MBC Action
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM", Starmovies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM", StarWorld
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM", MBC2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="SUB PREMIUM", FilmBox Extra
-http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", FILMBOXPLUS
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="SUB PREMIUM", FilmBox Plus
-http://84.22.33.254/unicast.filmboxplus/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", FILMBOXARTHOUSE
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="SUB PREMIUM", FilmBox ArtHouse
-http://84.22.33.254/unicast.arthouse/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", 7 HD
-http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SkyStar
-http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYACTION
-http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYCOMEDY
-http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYMAX
-http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", SKYShqip
-http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUB PREMIUM", BIGBANG THEORY
-http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET8 sport
-http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT SD
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT2 SD
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS", FOX-SPORT3 SD
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="SPORTS", Chelsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORTS", Man U TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", OLYMPIC Channel
-https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8?stime=1554365712&etime=1554366012&m=1552468505
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", RTSH SPORT
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:0 tvg-id="SportKlub1.rs" group-title="SPORTS",SK 1
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="SportKlub1.rs" group-title="SPORTS",SK 1 Backup
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1446
-#EXTINF:0 tvg-id="SportKlub2.rs" group-title="SPORTS",SK 2
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="SportKlub2.rs" group-title="SPORTS",SK 2 Backup
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1445
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 3
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 3 Backup
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1446
-#EXTINF:0 tvg-id="SportKlub4.rs" group-title="SPORTS",SK 4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-#EXTINF:0 tvg-id="SportKlub5.rs" group-title="SPORTS",SK 5
-http://185.180.12.34:8080/SK5/video.m3u8?token=test
-#EXTINF:0 tvg-id="SportKlub6.rs" group-title="SPORTS",SK 6
-http://185.180.12.34:8080/SK6/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 7
-http://185.180.12.34:8080/SK7/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 8
-http://185.180.12.34:8080/SK8/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 9
-http://185.180.12.34:8080/SK9/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",SK 10
-http://185.180.12.34:8080/SK10/video.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",QAZSPORT
-http://46.19.43.248:9981/stream/channelid/373098214
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sony Six 1
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sony Six 2
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/44
-#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",Sony Ten 1 Backup
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/35
-#EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",Sony Ten 2 backup
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/36
-#EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony Ten 3 Backup
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/37
-#EXTINF:0 tvg-id="SonyESPN.in" group-title="SPORTS",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS",Sport TV 1
-http://skdn.redi-vo.com/iptv/ch2123?code=103131497823984&key=48317
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="SPORTS",Sport TV 2
-http://skdn.redi-vo.com/iptv/ch2124?code=103131497823984&key=23461
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS",Sport TV 3
-http://skdn.redi-vo.com/iptv/ch2125?code=103131497823984&key=54310
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS",Sport TV 4
-http://skdn.redi-vo.com/iptv/ch2126?code=103131497823984&key=18673
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS",Sport TV 5
-http://skdn.redi-vo.com/iptv/ch2127?code=103131497823984&key=49822
-#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORTS+",Arena Sport 1 HR HD
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORTS+",Arena Sport 1 HR HD Backup
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORTS+",Arena Sport 2 HR HD
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORTS+",Arena Sport 2 HR HD Backup
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
-#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="SPORTS+",Arena Sport 3 HR HD
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="SPORTS+",Arena Sport 4 HR HD
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="SPORTS+",CBS SPORTS HD
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/169
-#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORTS+",TSN 1 HD
-http://ok2.se:8000/2ea0F7UJjBoGdgfvc/6412F9UMdvmPybQDQ/138
-#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORTS+",TSN 2 HD
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/139
-#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORTS+",TSN 3 HD
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/140
-#EXTINF:0 tvg-id="TSN4.ca" group-title="SPORTS+",TSN 4 HD
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/141
-#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORTS+",TSN 5 HD
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/142
-#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 1
-http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
-#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 2
-http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
-#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 3
-http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
-#EXTINF:0 tvg-id="ext" group-title="SPORTS+",RMC Sports 4
-http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="SPORT",LIGA SHOPEE HD
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcCsc8wL/INDO-Sports-2-HD2.png" group-title="SPORT",INDO Sports 2 HD
-http://125.227.210.37:8886/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0dXfFbm/tvri-sport-hd.png" group-title="SPORT", TVRI SPORT HD
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM74JmWD/tvri-sport-hd.png" group-title="SPORT", TVRI OLAHRAGA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="SPORT",MNC SPORT
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="SPORT",MNC SPORT 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT SPORTS
-http://rr.dens.tv/h/h05/index2.m3u8
-#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT TIME
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/" group-title="SPORT",FIGHT SPORT
-http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV | DEP (F)" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://vtech-computer.com/image/cache/catalog/demo/manufacturer/MUtv.jpg" group-title="SPORT",MU TV
-http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14939.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1ygQRdJ/foxsport1.png" group-title="SPORT",FOX Sport 1
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjFRJGjc/foxsport2.png" group-title="SPORT",FOX Sport 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="SPORT",BeinSport Xtra
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym8G6zx/Champions-tv-1.png" group-title="SPORT",Champions tv 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORT",Champions tv 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254447/logo_liga_champions2-169.jpg" group-title="SPORT",SONY TEN1 WWE
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254447/logo_liga_champions2-169.jpg" group-title="SPORT",SONY TEN2 TENNIS
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
-#EXTINF:-1 group-title="SPORT", PACUAN KUDA
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SABUNG AYAM
-https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Server ID: AFC HD
+http://tvku.live:8888/lombok/lombok123/3627
+#EXTINF:-1,Server ID: Aljazeera
+http://tvku.live:8888/lombok/lombok123/3606
+#EXTINF:-1,Server ID: Animal Planet FHD
+http://tvku.live:8888/lombok/lombok123/3616
+#EXTINF:-1,Server ID: Animal Planet HD
+http://tvku.live:8888/lombok/lombok123/3615
+#EXTINF:-1,Server ID: Animax HD
+http://tvku.live:8888/lombok/lombok123/3630
+#EXTINF:-1,Server ID: ANTV
+http://tvku.live:8888/lombok/lombok123/3588
+#EXTINF:-1,Server ID: Arirang
+http://tvku.live:8888/lombok/lombok123/3604
+#EXTINF:-1,Server ID: AXN HD
+http://tvku.live:8888/lombok/lombok123/3631
+#EXTINF:-1,Server ID: BBC Lifestyle HD
+http://tvku.live:8888/lombok/lombok123/3623
+#EXTINF:-1,Server ID: BBC World News
+http://tvku.live:8888/lombok/lombok123/3585
+#EXTINF:-1,Server ID: Berita Satu
+http://tvku.live:8888/lombok/lombok123/3578
+#EXTINF:-1,Server ID: Bloomberg
+http://tvku.live:8888/lombok/lombok123/3607
+#EXTINF:-1,Server ID: Channel V HD
+http://tvku.live:8888/lombok/lombok123/3624
+#EXTINF:-1,Server ID: Cinemax HD
+http://tvku.live:8888/lombok/lombok123/4833
+#EXTINF:-1,Server ID: CNA
+http://tvku.live:8888/lombok/lombok123/3580
+#EXTINF:-1,Server ID: Da Vinci Kids
+http://tvku.live:8888/lombok/lombok123/3577
+#EXTINF:-1,Server ID: DAAI TV
+http://tvku.live:8888/lombok/lombok123/3599
+#EXTINF:-1,Server ID: Disc Asia HD
+http://tvku.live:8888/lombok/lombok123/3622
+#EXTINF:-1,Server ID: Discovery Channel FHD
+http://tvku.live:8888/lombok/lombok123/3618
+#EXTINF:-1,Server ID: Discovery Channel HD
+http://tvku.live:8888/lombok/lombok123/3617
+#EXTINF:-1,Server ID: Disney Channel
+http://tvku.live:8888/lombok/lombok123/3613
+#EXTINF:-1,Server ID: Disney Junior
+http://tvku.live:8888/lombok/lombok123/3614
+#EXTINF:-1,Server ID: FOX Action FHD
+http://tvku.live:8888/lombok/lombok123/3642
+#EXTINF:-1,Server ID: FOX Action HD
+http://tvku.live:8888/lombok/lombok123/3641
+#EXTINF:-1,Server ID: FOX Crime FHD
+http://tvku.live:8888/lombok/lombok123/3638
+#EXTINF:-1,Server ID: FOX Crime HD
+http://tvku.live:8888/lombok/lombok123/3637
+#EXTINF:-1,Server ID: FOX Family Movies FHD
+http://tvku.live:8888/lombok/lombok123/3644
+#EXTINF:-1,Server ID: FOX Family Movies HD
+http://tvku.live:8888/lombok/lombok123/3643
+#EXTINF:-1,Server ID: FOX FHD
+http://tvku.live:8888/lombok/lombok123/3634
+#EXTINF:-1,Server ID: FOX HD
+http://tvku.live:8888/lombok/lombok123/3633
+#EXTINF:-1,Server ID: FOX Life FHD
+http://tvku.live:8888/lombok/lombok123/3636
+#EXTINF:-1,Server ID: FOX Life HD
+http://tvku.live:8888/lombok/lombok123/3635
+#EXTINF:-1,Server ID: FOX Movies FHD
+http://tvku.live:8888/lombok/lombok123/3640
+#EXTINF:-1,Server ID: FOX Movies HD
+http://tvku.live:8888/lombok/lombok123/3639
+#EXTINF:-1,Server ID: France 24
+http://tvku.live:8888/lombok/lombok123/3586
+#EXTINF:-1,Server ID: FX FHD
+http://tvku.live:8888/lombok/lombok123/3646
+#EXTINF:-1,Server ID: FX HD
+http://tvku.live:8888/lombok/lombok123/3645
+#EXTINF:-1,Server ID: HBO Family HD
+http://tvku.live:8888/lombok/lombok123/4830
+#EXTINF:-1,Server ID: HBO HD
+http://tvku.live:8888/lombok/lombok123/4828
+#EXTINF:-1,Server ID: HBO Hits HD
+http://tvku.live:8888/lombok/lombok123/4829
+#EXTINF:-1,Server ID: HBO Signature HD
+http://tvku.live:8888/lombok/lombok123/4831
+#EXTINF:-1,Server ID: HGTV HD
+http://tvku.live:8888/lombok/lombok123/3628
+#EXTINF:-1,Server ID: History
+http://tvku.live:8888/lombok/lombok123/24220
+#EXTINF:-1,Server ID: Indosiar
+http://tvku.live:8888/lombok/lombok123/4839
+#EXTINF:-1,Server ID: Jak TV
+http://tvku.live:8888/lombok/lombok123/3598
+#EXTINF:-1,Server ID: JTV
+http://tvku.live:8888/lombok/lombok123/3600
+#EXTINF:-1,Server ID: K Drama
+http://tvku.live:8888/lombok/lombok123/3595
+#EXTINF:-1,Server ID: Kompas TV
+http://tvku.live:8888/lombok/lombok123/3590
+#EXTINF:-1,Server ID: Metro TV
+http://tvku.live:8888/lombok/lombok123/3589
+#EXTINF:-1,Server ID: MY TV
+http://tvku.live:8888/lombok/lombok123/3610
+#EXTINF:-1,Server ID: Nat Geo FHD
+http://tvku.live:8888/lombok/lombok123/13690
+#EXTINF:-1,Server ID: Nat Geo HD
+http://tvku.live:8888/lombok/lombok123/3621
+#EXTINF:-1,Server ID: Nat Geo People FHD
+http://tvku.live:8888/lombok/lombok123/13718
+#EXTINF:-1,Server ID: Nat Geo People HD
+http://tvku.live:8888/lombok/lombok123/3619
+#EXTINF:-1,Server ID: Nat Geo Wild FHD
+http://tvku.live:8888/lombok/lombok123/13717
+#EXTINF:-1,Server ID: Nat Geo Wild HD
+http://tvku.live:8888/lombok/lombok123/3620
+#EXTINF:-1,Server ID: NET HD
+http://tvku.live:8888/lombok/lombok123/3579
+#EXTINF:-1,Server ID: Nick JR ID
+http://tvku.live:8888/lombok/lombok123/14165
+#EXTINF:-1,Server ID: O Channel
+http://tvku.live:8888/lombok/lombok123/3597
+#EXTINF:-1,Server ID: Rajawali TV
+http://tvku.live:8888/lombok/lombok123/3591
+#EXTINF:-1,Server ID: Rodja
+http://tvku.live:8888/lombok/lombok123/3592
+#EXTINF:-1,Server ID: RT
+http://tvku.live:8888/lombok/lombok123/3608
+#EXTINF:-1,Server ID: S GEM HD
+http://tvku.live:8888/lombok/lombok123/3632
+#EXTINF:-1,Server ID: SCTV
+http://tvku.live:8888/lombok/lombok123/3593
+#EXTINF:-1,Server ID: Sinema Indonesia
+http://tvku.live:8888/lombok/lombok123/3596
+#EXTINF:-1,Server ID: Sony ONE HD
+http://tvku.live:8888/lombok/lombok123/3647
+#EXTINF:-1,Server ID: Spacetoon
+http://tvku.live:8888/lombok/lombok123/3603
+#EXTINF:-1,Server ID: TLC HD
+http://tvku.live:8888/lombok/lombok123/3626
+#EXTINF:-1,Server ID: Trans 7
+http://tvku.live:8888/lombok/lombok123/3583
+#EXTINF:-1,Server ID: Trans TV
+http://tvku.live:8888/lombok/lombok123/3584
+#EXTINF:-1,Server ID: TV One
+http://tvku.live:8888/lombok/lombok123/3587
+#EXTINF:-1,Server ID: TVRI
+http://tvku.live:8888/lombok/lombok123/3594
+#EXTINF:-1,Server ID: Waku Waku Japan HD
+http://tvku.live:8888/lombok/lombok123/14166
+#EXTINF:-1,Server ID: XingXong
+http://tvku.live:8888/lombok/lombok123/3605
+#EXTINF:-1,ANTV
+http://tvku.live:8888/lombok/lombok123/31
+#EXTINF:-1,Bali TV
+http://tvku.live:8888/lombok/lombok123/889
+#EXTINF:-1,DAAI TV
+http://tvku.live:8888/lombok/lombok123/21
+#EXTINF:-1,Dunia Lain
+http://tvku.live:8888/lombok/lombok123/910
+#EXTINF:-1,Hope Channel
+http://tvku.live:8888/lombok/lombok123/30183
+#EXTINF:-1,Indosiar
+http://tvku.live:8888/lombok/lombok123/1845
+#EXTINF:-1,Jak TV
+http://tvku.live:8888/lombok/lombok123/1210
+#EXTINF:-1,JTV
+http://tvku.live:8888/lombok/lombok123/135
+#EXTINF:-1,Life
+http://tvku.live:8888/lombok/lombok123/1772
+#EXTINF:-1,NET TV
+http://tvku.live:8888/lombok/lombok123/24
+#EXTINF:-1,NET TV FHD
+http://tvku.live:8888/lombok/lombok123/78
+#EXTINF:-1,O Channel
+http://tvku.live:8888/lombok/lombok123/1727
+#EXTINF:-1,Rajawali TV
+http://tvku.live:8888/lombok/lombok123/37
+#EXTINF:-1,SCTV
+http://tvku.live:8888/lombok/lombok123/32
+#EXTINF:-1,SCTV HD
+http://tvku.live:8888/lombok/lombok123/931
+#EXTINF:-1,Trans 7
+http://tvku.live:8888/lombok/lombok123/35
+#EXTINF:-1,Trans 7 FHD
+http://tvku.live:8888/lombok/lombok123/930
+#EXTINF:-1,Trans TV
+http://tvku.live:8888/lombok/lombok123/34
+#EXTINF:-1,Trans TV FHD
+http://tvku.live:8888/lombok/lombok123/929
+#EXTINF:-1,U Channel
+http://tvku.live:8888/lombok/lombok123/1208
+#EXTINF:-1,Aljazeera EN
+http://tvku.live:8888/lombok/lombok123/89
+#EXTINF:-1,BBC World News HD
+http://tvku.live:8888/lombok/lombok123/789
+#EXTINF:-1,Berita Satu News
+http://tvku.live:8888/lombok/lombok123/136
+#EXTINF:-1,Bloomberg
+http://tvku.live:8888/lombok/lombok123/788
+#EXTINF:-1,Bloomberg TV Asia
+http://tvku.live:8888/lombok/lombok123/137
+#EXTINF:-1,CGTN News
+http://tvku.live:8888/lombok/lombok123/15070
+#EXTINF:-1,Channel News Asia
+http://tvku.live:8888/lombok/lombok123/1191
+#EXTINF:-1,CNBC Indonesia
+http://tvku.live:8888/lombok/lombok123/1512
+#EXTINF:-1,CNN Indonesia
+http://tvku.live:8888/lombok/lombok123/44
+#EXTINF:-1,CNN Int
+http://tvku.live:8888/lombok/lombok123/1200
+#EXTINF:-1,DW TV Asia
+http://tvku.live:8888/lombok/lombok123/205
+#EXTINF:-1,France 24
+http://tvku.live:8888/lombok/lombok123/787
+#EXTINF:-1,INEWS HD
+http://tvku.live:8888/lombok/lombok123/2459
+#EXTINF:-1,Kompas TV
+http://tvku.live:8888/lombok/lombok123/30
+#EXTINF:-1,Metro TV
+http://tvku.live:8888/lombok/lombok123/52
+#EXTINF:-1,Metro TV HD
+http://tvku.live:8888/lombok/lombok123/1697
+#EXTINF:-1,TV ONE
+http://tvku.live:8888/lombok/lombok123/29
+#EXTINF:-1,TVRI
+http://tvku.live:8888/lombok/lombok123/36
+#EXTINF:-1,ATV
+http://tvku.live:8888/lombok/lombok123/29899
+#EXTINF:-1,AXN
+http://tvku.live:8888/lombok/lombok123/9
+#EXTINF:-1,Bioskop Indonesia
+http://tvku.live:8888/lombok/lombok123/908
+#EXTINF:-1,Blue Ant Extreme FHD
+http://tvku.live:8888/lombok/lombok123/811
+#EXTINF:-1,CCM
+http://tvku.live:8888/lombok/lombok123/2118
+#EXTINF:-1,Celestial Movies
+http://tvku.live:8888/lombok/lombok123/5
+#EXTINF:-1,Cinema World
+http://tvku.live:8888/lombok/lombok123/1194
+#EXTINF:-1,Cinemax ID
+http://tvku.live:8888/lombok/lombok123/2156
+#EXTINF:-1,Cinemax FHD
+http://tvku.live:8888/lombok/lombok123/30185
+#EXTINF:-1,Cinemax SD
+http://tvku.live:8888/lombok/lombok123/26599
+#EXTINF:-1,FLIK HD
+http://tvku.live:8888/lombok/lombok123/29592
+#EXTINF:-1,FMN
+http://tvku.live:8888/lombok/lombok123/11489
+#EXTINF:-1,FOX Action Movies FHD
+http://tvku.live:8888/lombok/lombok123/1478
+#EXTINF:-1,FOX Action Movies HD
+http://tvku.live:8888/lombok/lombok123/99
+#EXTINF:-1,FOX Action Movies SD
+http://tvku.live:8888/lombok/lombok123/1125
+#EXTINF:-1,FOX Crime FHD
+http://tvku.live:8888/lombok/lombok123/3334
+#EXTINF:-1,FOX Crime HD
+http://tvku.live:8888/lombok/lombok123/763
+#EXTINF:-1,FOX Crime SD
+http://tvku.live:8888/lombok/lombok123/2257
+#EXTINF:-1,FOX Family Movies EN
+http://tvku.live:8888/lombok/lombok123/1493
+#EXTINF:-1,FOX Family Movies ID
+http://tvku.live:8888/lombok/lombok123/14994
+#EXTINF:-1,FOX HD
+http://tvku.live:8888/lombok/lombok123/95
+#EXTINF:-1,FOX Life HD
+http://tvku.live:8888/lombok/lombok123/94
+#EXTINF:-1,FOX Movies FHD
+http://tvku.live:8888/lombok/lombok123/1205
+#EXTINF:-1,FOX Movies HD
+http://tvku.live:8888/lombok/lombok123/98
+#EXTINF:-1,FOX Movies HD Backup
+http://tvku.live:8888/lombok/lombok123/978
+#EXTINF:-1,FX HD
+http://tvku.live:8888/lombok/lombok123/776
+#EXTINF:-1,Galaxy Premium SD
+http://tvku.live:8888/lombok/lombok123/29603
+#EXTINF:-1,Galaxy SD
+http://tvku.live:8888/lombok/lombok123/29604
+#EXTINF:-1,HBO Family HD
+http://tvku.live:8888/lombok/lombok123/592
+#EXTINF:-1,HBO Family FHD
+http://tvku.live:8888/lombok/lombok123/30184
+#EXTINF:-1,HBO Family SD
+http://tvku.live:8888/lombok/lombok123/26598
+#EXTINF:-1,HBO FHD
+http://tvku.live:8888/lombok/lombok123/1496
+#EXTINF:-1,HBO HD
+http://tvku.live:8888/lombok/lombok123/210
+#EXTINF:-1,HBO Hits FHD
+http://tvku.live:8888/lombok/lombok123/11492
+#EXTINF:-1,HBO Hits HD
+http://tvku.live:8888/lombok/lombok123/591
+#EXTINF:-1,HBO Hits SD
+http://tvku.live:8888/lombok/lombok123/26596
+#EXTINF:-1,HBO SD
+http://tvku.live:8888/lombok/lombok123/26595
+#EXTINF:-1,HBO Signature FHD
+http://tvku.live:8888/lombok/lombok123/1498
+#EXTINF:-1,HBO Signature HD
+http://tvku.live:8888/lombok/lombok123/873
+#EXTINF:-1,HBO Signature SD
+http://tvku.live:8888/lombok/lombok123/26597
+#EXTINF:-1,HITS FHD
+http://tvku.live:8888/lombok/lombok123/1195
+#EXTINF:-1,Hits Movie FHD
+http://tvku.live:8888/lombok/lombok123/957
+#EXTINF:-1,IMC
+http://tvku.live:8888/lombok/lombok123/1483
+#EXTINF:-1,KIX HD
+http://tvku.live:8888/lombok/lombok123/8
+#EXTINF:-1,LifeTime FHD
+http://tvku.live:8888/lombok/lombok123/866
+#EXTINF:-1,Red By HBO HD
+http://tvku.live:8888/lombok/lombok123/4832
+#EXTINF:-1,Sinema Indonesia
+http://tvku.live:8888/lombok/lombok123/3476
+#EXTINF:-1,Star Chinese Movies HD
+http://tvku.live:8888/lombok/lombok123/780
+#EXTINF:-1,Star Chinese Movies Legend
+http://tvku.live:8888/lombok/lombok123/1859
+#EXTINF:-1,Star World
+http://tvku.live:8888/lombok/lombok123/381
+#EXTINF:-1,Thrill
+http://tvku.live:8888/lombok/lombok123/4
+#EXTINF:-1,Vision Prime
+http://tvku.live:8888/lombok/lombok123/26635
+#EXTINF:-1,Warner TV ID HD
+http://tvku.live:8888/lombok/lombok123/1533
+#EXTINF:-1,Zee Bioskop
+http://tvku.live:8888/lombok/lombok123/7
+#EXTINF:-1,Animal Planet HD
+http://tvku.live:8888/lombok/lombok123/358
+#EXTINF:-1,BBC Earth
+http://tvku.live:8888/lombok/lombok123/385
+#EXTINF:-1,Crime Investigation
+http://tvku.live:8888/lombok/lombok123/332
+#EXTINF:-1,Discovery Asia
+http://tvku.live:8888/lombok/lombok123/779
+#EXTINF:-1,Discovery Channel HD
+http://tvku.live:8888/lombok/lombok123/165
+#EXTINF:-1,Discovery Science HD
+http://tvku.live:8888/lombok/lombok123/408
+#EXTINF:-1,Discovery Shed
+http://tvku.live:8888/lombok/lombok123/333
+#EXTINF:-1,Discovery Turbo
+http://tvku.live:8888/lombok/lombok123/462
+#EXTINF:-1,History FHD
+http://tvku.live:8888/lombok/lombok123/8131
+#EXTINF:-1,History HD
+http://tvku.live:8888/lombok/lombok123/718
+#EXTINF:-1,Love Nature 4K
+http://tvku.live:8888/lombok/lombok123/14105
+#EXTINF:-1,National Geographic Channel HD
+http://tvku.live:8888/lombok/lombok123/96
+#EXTINF:-1,National Geographic People
+http://tvku.live:8888/lombok/lombok123/455
+#EXTINF:-1,National Geographic Wild HD
+http://tvku.live:8888/lombok/lombok123/97
+#EXTINF:-1,Smithsonian Channel
+http://tvku.live:8888/lombok/lombok123/14103
+#EXTINF:-1,Animax
+http://tvku.live:8888/lombok/lombok123/3
+#EXTINF:-1,Aniplus
+http://tvku.live:8888/lombok/lombok123/2
+#EXTINF:-1,Baby First
+http://tvku.live:8888/lombok/lombok123/1204
+#EXTINF:-1,Baby TV
+http://tvku.live:8888/lombok/lombok123/296
+#EXTINF:-1,Boomerang ID
+http://tvku.live:8888/lombok/lombok123/305
+#EXTINF:-1,Cartoon Network ID HD
+http://tvku.live:8888/lombok/lombok123/680
+#EXTINF:-1,CBeebies
+http://tvku.live:8888/lombok/lombok123/491
+#EXTINF:-1,Disney Channel
+http://tvku.live:8888/lombok/lombok123/306
+#EXTINF:-1,Disney Channel ID
+http://tvku.live:8888/lombok/lombok123/3479
+#EXTINF:-1,Disney Junior
+http://tvku.live:8888/lombok/lombok123/213
+#EXTINF:-1,Disney UK
+http://tvku.live:8888/lombok/lombok123/2336
+#EXTINF:-1,Disney XD
+http://tvku.live:8888/lombok/lombok123/104
+#EXTINF:-1,Duck TV
+http://tvku.live:8888/lombok/lombok123/1854
+#EXTINF:-1,Lingua Channel
+http://tvku.live:8888/lombok/lombok123/14944
+#EXTINF:-1,Dunia Anak
+http://tvku.live:8888/lombok/lombok123/907
+#EXTINF:-1,Horee
+http://tvku.live:8888/lombok/lombok123/14106
+#EXTINF:-1,Nick Jr 2
+http://tvku.live:8888/lombok/lombok123/341
+#EXTINF:-1,Nick Jr ID
+http://tvku.live:8888/lombok/lombok123/522
+#EXTINF:-1,Nick Toons
+http://tvku.live:8888/lombok/lombok123/335
+#EXTINF:-1,Nickelodeon ID
+http://tvku.live:8888/lombok/lombok123/962
+#EXTINF:-1,Spacetoon
+http://tvku.live:8888/lombok/lombok123/1541
+#EXTINF:-1,Toonmax
+http://tvku.live:8888/lombok/lombok123/1116
+#EXTINF:-1,Zoo Moo FHD
+http://tvku.live:8888/lombok/lombok123/14104
+#EXTINF:-1,Astro Arena HD
+http://tvku.live:8888/lombok/lombok123/4236
+#EXTINF:-1,Astro Arena HD 50fps
+http://tvku.live:8888/lombok/lombok123/4838
+#EXTINF:-1,Astro Cricket HD
+http://tvku.live:8888/lombok/lombok123/4237
+#EXTINF:-1,BeIN Sport 1 ID
+http://tvku.live:8888/lombok/lombok123/728
+#EXTINF:-1,BeIN Sport 2 ID
+http://tvku.live:8888/lombok/lombok123/729
+#EXTINF:-1,BeIN Max HD Malaysia
+http://tvku.live:8888/lombok/lombok123/4272
+#EXTINF:-1,Box Nation
+http://tvku.live:8888/lombok/lombok123/499
+#EXTINF:-1,FIGHT BOX
+http://tvku.live:8888/lombok/lombok123/501
+#EXTINF:-1,Fight Sports
+http://tvku.live:8888/lombok/lombok123/784
+#EXTINF:-1,Fox Sports 1 HD
+http://tvku.live:8888/lombok/lombok123/51
+#EXTINF:-1,Fox Sports 1 SD
+http://tvku.live:8888/lombok/lombok123/26628
+#EXTINF:-1,Fox Sports 2 HD
+http://tvku.live:8888/lombok/lombok123/102
+#EXTINF:-1,Fox Sports 2 SD
+http://tvku.live:8888/lombok/lombok123/26633
+#EXTINF:-1,Fox Sports 3 HD
+http://tvku.live:8888/lombok/lombok123/101
+#EXTINF:-1,Fox Sports 3 SD
+http://tvku.live:8888/lombok/lombok123/26634
+#EXTINF:-1,Golf Channel FHD
+http://tvku.live:8888/lombok/lombok123/561
+#EXTINF:-1,Golf HD
+http://tvku.live:8888/lombok/lombok123/864
+#EXTINF:-1,NBA TV HD
+http://tvku.live:8888/lombok/lombok123/3099
+#EXTINF:-1,NBA TV HD US
+http://tvku.live:8888/lombok/lombok123/243
+#EXTINF:-1,Ten Golf HD
+http://tvku.live:8888/lombok/lombok123/224
+#EXTINF:-1,Tennis Channel
+http://tvku.live:8888/lombok/lombok123/482
+#EXTINF:-1,Tennis Channel 2
+http://tvku.live:8888/lombok/lombok123/19168
+#EXTINF:-1,WWE Network
+http://tvku.live:8888/lombok/lombok123/299
+#EXTINF:-1,UFC FHD
+http://tvku.live:8888/lombok/lombok123/2401
+#EXTINF:-1,AFN HD
+http://tvku.live:8888/lombok/lombok123/807
+#EXTINF:-1,Blue Ant Entertainment FHD
+http://tvku.live:8888/lombok/lombok123/1506
+#EXTINF:-1,DMAX
+http://tvku.live:8888/lombok/lombok123/483
+#EXTINF:-1,Every Good Game
+http://tvku.live:8888/lombok/lombok123/921
+#EXTINF:-1,Fashion TV
+http://tvku.live:8888/lombok/lombok123/280
+#EXTINF:-1,HGTV
+http://tvku.live:8888/lombok/lombok123/537
+#EXTINF:-1,Insert
+http://tvku.live:8888/lombok/lombok123/1763
+#EXTINF:-1,NHK World Japan
+http://tvku.live:8888/lombok/lombok123/785
+#EXTINF:-1,TLC English
+http://tvku.live:8888/lombok/lombok123/351
+#EXTINF:-1,TLC HD
+http://tvku.live:8888/lombok/lombok123/352
+#EXTINF:-1,TV 5 Monde Asie
+http://tvku.live:8888/lombok/lombok123/786
+#EXTINF:-1,Waku Waku Japan HD
+http://tvku.live:8888/lombok/lombok123/717
+#EXTINF:-1,ZQTV Drama
+http://tvku.live:8888/lombok/lombok123/26979
+#EXTINF:-1,K Drama
+http://tvku.live:8888/lombok/lombok123/1699
+#EXTINF:-1,Satellite TV
+http://tvku.live:8888/lombok/lombok123/18
+#EXTINF:-1,KBS World
+http://tvku.live:8888/lombok/lombok123/15057
+#EXTINF:-1,S GEM HD
+http://tvku.live:8888/lombok/lombok123/770
+#EXTINF:-1,Sony ONE
+http://tvku.live:8888/lombok/lombok123/19
+#EXTINF:-1,TVN ID
+http://tvku.live:8888/lombok/lombok123/767
+#EXTINF:-1,tVN Movies HD
+http://tvku.live:8888/lombok/lombok123/927
+#EXTINF:-1,Channel V Int
+http://tvku.live:8888/lombok/lombok123/766
+#EXTINF:-1,i konser
+http://tvku.live:8888/lombok/lombok123/29594
+#EXTINF:-1,MTV
+http://tvku.live:8888/lombok/lombok123/281
+#EXTINF:-1,MTV Base
+http://tvku.live:8888/lombok/lombok123/291
+#EXTINF:-1,MTV Classic
+http://tvku.live:8888/lombok/lombok123/289
+#EXTINF:-1,MTV Dance
+http://tvku.live:8888/lombok/lombok123/288
+#EXTINF:-1,MTV Hits
+http://tvku.live:8888/lombok/lombok123/287
+#EXTINF:-1,MTV LIVE HD
+http://tvku.live:8888/lombok/lombok123/9110
+#EXTINF:-1,MTV Music
+http://tvku.live:8888/lombok/lombok123/286
+#EXTINF:-1,NRJ Hits TV
+http://tvku.live:8888/lombok/lombok123/29836
+#EXTINF:-1,ONE African TV
+http://tvku.live:8888/lombok/lombok123/1731
+#EXTINF:-1,Prambors TV
+http://tvku.live:8888/lombok/lombok123/1157
+#EXTINF:-1,Citra Drama
+http://tvku.live:8888/lombok/lombok123/905
+#EXTINF:-1,Trace Africa
+http://tvku.live:8888/lombok/lombok123/108
+#EXTINF:-1,Trace Mizki
+http://tvku.live:8888/lombok/lombok123/109
+#EXTINF:-1,Trace Naija
+http://tvku.live:8888/lombok/lombok123/113
+#EXTINF:-1,Trace Toca
+http://tvku.live:8888/lombok/lombok123/111
+#EXTINF:-1,Trace Tropical
+http://tvku.live:8888/lombok/lombok123/112
+#EXTINF:-1,Trace Urban
+http://tvku.live:8888/lombok/lombok123/106
+#EXTINF:-1,Ahsan TV
+http://tvku.live:8888/lombok/lombok123/26630
+#EXTINF:-1,Al-Iman TV
+http://tvku.live:8888/lombok/lombok123/26631
+#EXTINF:-1,Citra Dangdut
+http://tvku.live:8888/lombok/lombok123/2207
+#EXTINF:-1,Madina TV
+http://tvku.live:8888/lombok/lombok123/912
+#EXTINF:-1,Makkah TV
+http://tvku.live:8888/lombok/lombok123/297
+#EXTINF:-1,Reformed 21
+http://tvku.live:8888/lombok/lombok123/26632
+#EXTINF:-1,Rodja TV
+http://tvku.live:8888/lombok/lombok123/843
+#EXTINF:-1,TAWAF TV
+http://tvku.live:8888/lombok/lombok123/14997
+#EXTINF:-1,TV Mu
+http://tvku.live:8888/lombok/lombok123/1726
+#EXTINF:-1,AR: Al Nahar
+http://tvku.live:8888/lombok/lombok123/2575
+#EXTINF:-1,AR: MBC Action HD
+http://tvku.live:8888/lombok/lombok123/2564
+#EXTINF:-1,AR: MBC Drama HD
+http://tvku.live:8888/lombok/lombok123/2565
+#EXTINF:-1,AR: MBC Variety HD
+http://tvku.live:8888/lombok/lombok123/2567
+#EXTINF:-1,AR: Nile Cinema
+http://tvku.live:8888/lombok/lombok123/2584
+#EXTINF:-1,AR: Nile Culture
+http://tvku.live:8888/lombok/lombok123/2582
+#EXTINF:-1,AR: Nile Drama
+http://tvku.live:8888/lombok/lombok123/2581
+#EXTINF:-1,AR: Nile Family
+http://tvku.live:8888/lombok/lombok123/2576
+#EXTINF:-1,AR: Nile Life
+http://tvku.live:8888/lombok/lombok123/2580
+#EXTINF:-1,AR: NILE NEWS
+http://tvku.live:8888/lombok/lombok123/2579
+#EXTINF:-1,AR: Nile tv
+http://tvku.live:8888/lombok/lombok123/2577
+#EXTINF:-1,AR: Rotana Alfam HD
+http://tvku.live:8888/lombok/lombok123/2574
+#EXTINF:-1,AR: Rotana Cinema HD
+http://tvku.live:8888/lombok/lombok123/2573
+#EXTINF:-1,AR: Rotana Classic HD
+http://tvku.live:8888/lombok/lombok123/2572
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://tvku.live:8888/lombok/lombok123/2571
+#EXTINF:-1,AR: Rotana Masriah HD
+http://tvku.live:8888/lombok/lombok123/2570
+#EXTINF:-1,IN: & Picture HD
+http://tvku.live:8888/lombok/lombok123/2553
+#EXTINF:-1,IN: &TV HD India
+http://tvku.live:8888/lombok/lombok123/2554
+#EXTINF:-1,IN: B4U Movies
+http://tvku.live:8888/lombok/lombok123/2557
+#EXTINF:-1,IN: B4U Music
+http://tvku.live:8888/lombok/lombok123/2558
+#EXTINF:-1,IN: Colors HD
+http://tvku.live:8888/lombok/lombok123/2548
+#EXTINF:-1,IN: Sony Max HD
+http://tvku.live:8888/lombok/lombok123/180
+#EXTINF:-1,IN: Star Jalsha
+http://tvku.live:8888/lombok/lombok123/2547
+#EXTINF:-1,IN: Star Vijay
+http://tvku.live:8888/lombok/lombok123/2545
+#EXTINF:-1,IN: SUN Life
+http://tvku.live:8888/lombok/lombok123/2556
+#EXTINF:-1,IN: SUN Music
+http://tvku.live:8888/lombok/lombok123/2555
+#EXTINF:-1,IN: UTV Bindass
+http://tvku.live:8888/lombok/lombok123/2544
+#EXTINF:-1,IN: Zee Bollywood
+http://tvku.live:8888/lombok/lombok123/2541
+#EXTINF:-1,IN: Zee Cinema
+http://tvku.live:8888/lombok/lombok123/2542
+#EXTINF:-1,IN: Zee HD
+http://tvku.live:8888/lombok/lombok123/2559
+#EXTINF:-1,IN: Zing TV
+http://tvku.live:8888/lombok/lombok123/813
+#EXTINF:-1,Adithya TV
+http://tvku.live:8888/lombok/lombok123/4256
+#EXTINF:-1,Astro AEC HD
+http://tvku.live:8888/lombok/lombok123/4257
+#EXTINF:-1,Astro AOD 351
+http://tvku.live:8888/lombok/lombok123/4262
+#EXTINF:-1,Astro AOD 352
+http://tvku.live:8888/lombok/lombok123/4263
+#EXTINF:-1,Astro AOD 353
+http://tvku.live:8888/lombok/lombok123/4264
+#EXTINF:-1,Astro AOD 362
+http://tvku.live:8888/lombok/lombok123/4266
+#EXTINF:-1,Astro AOD HD 363
+http://tvku.live:8888/lombok/lombok123/4267
+#EXTINF:-1,Astro Awani
+http://tvku.live:8888/lombok/lombok123/4269
+#EXTINF:-1,Astro Bollyone HD
+http://tvku.live:8888/lombok/lombok123/4277
+#EXTINF:-1,Astro Ceria
+http://tvku.live:8888/lombok/lombok123/4282
+#EXTINF:-1,Astro Go Shop
+http://tvku.live:8888/lombok/lombok123/4305
+#EXTINF:-1,Astro Go Shop 2
+http://tvku.live:8888/lombok/lombok123/4304
+#EXTINF:-1,Astro Go Shop 3
+http://tvku.live:8888/lombok/lombok123/4306
+#EXTINF:-1,Astro HUA HEE DAI HD
+http://tvku.live:8888/lombok/lombok123/4313
+#EXTINF:-1,Astro OASIS HD
+http://tvku.live:8888/lombok/lombok123/4323
+#EXTINF:-1,Astro Prima HD
+http://tvku.live:8888/lombok/lombok123/4326
+#EXTINF:-1,Astro QUAN JIA HD
+http://tvku.live:8888/lombok/lombok123/4327
+#EXTINF:-1,Astro Ria HD
+http://tvku.live:8888/lombok/lombok123/4329
+#EXTINF:-1,Astro SHUANG XING HD
+http://tvku.live:8888/lombok/lombok123/4331
+#EXTINF:-1,Astro STAR VIJAY HD
+http://tvku.live:8888/lombok/lombok123/4332
+#EXTINF:-1,Astro TUTOR TV PT3
+http://tvku.live:8888/lombok/lombok123/4336
+#EXTINF:-1,Astro TUTOR TV SPM
+http://tvku.live:8888/lombok/lombok123/4337
+#EXTINF:-1,Astro TUTOR TV UPSR
+http://tvku.live:8888/lombok/lombok123/4338
+#EXTINF:-1,Astro TVIQ
+http://tvku.live:8888/lombok/lombok123/4344
+#EXTINF:-1,Astro VAANAVIL
+http://tvku.live:8888/lombok/lombok123/4345
+#EXTINF:-1,Astro VINMEEN HD
+http://tvku.live:8888/lombok/lombok123/4346
+#EXTINF:-1,Astro WARNA HD
+http://tvku.live:8888/lombok/lombok123/4348
+#EXTINF:-1,Astro XIAO TAI YANG
+http://tvku.live:8888/lombok/lombok123/4350
+#EXTINF:-1,MY ABC AUSTRALIA
+http://tvku.live:8888/lombok/lombok123/4358
+#EXTINF:-1,MY AFC HD
+http://tvku.live:8888/lombok/lombok123/4258
+#EXTINF:-1,MY AL JAZEERA HD
+http://tvku.live:8888/lombok/lombok123/4359
+#EXTINF:-1,MY Animal Planet HD
+http://tvku.live:8888/lombok/lombok123/4259
+#EXTINF:-1,MY ANIMAX
+http://tvku.live:8888/lombok/lombok123/4360
+#EXTINF:-1,MY Aniplus HD
+http://tvku.live:8888/lombok/lombok123/4260
+#EXTINF:-1,MY AXN HD
+http://tvku.live:8888/lombok/lombok123/4270
+#EXTINF:-1,MY BBC WORLD NEWS HD
+http://tvku.live:8888/lombok/lombok123/4361
+#EXTINF:-1,MY beIN SPORTS
+http://tvku.live:8888/lombok/lombok123/4274
+#EXTINF:-1,MY BNC
+http://tvku.live:8888/lombok/lombok123/4276
+#EXTINF:-1,MY Cartoon Network
+http://tvku.live:8888/lombok/lombok123/4278
+#EXTINF:-1,MY CCM
+http://tvku.live:8888/lombok/lombok123/4279
+#EXTINF:-1,MY CCTV4
+http://tvku.live:8888/lombok/lombok123/4280
+#EXTINF:-1,MY CELESTIAL HD
+http://tvku.live:8888/lombok/lombok123/4281
+#EXTINF:-1,MY Celestial Movies
+http://tvku.live:8888/lombok/lombok123/4386
+#EXTINF:-1,MY CHUTTI TV
+http://tvku.live:8888/lombok/lombok123/4284
+#EXTINF:-1,MY CINEMAX HD
+http://tvku.live:8888/lombok/lombok123/4286
+#EXTINF:-1,MY CNA HD
+http://tvku.live:8888/lombok/lombok123/4362
+#EXTINF:-1,MY CNBC
+http://tvku.live:8888/lombok/lombok123/4288
+#EXTINF:-1,MY CNN HD
+http://tvku.live:8888/lombok/lombok123/4289
+#EXTINF:-1,MY COLORS HD
+http://tvku.live:8888/lombok/lombok123/4290
+#EXTINF:-1,MY COLORS TAMIL
+http://tvku.live:8888/lombok/lombok123/4363
+#EXTINF:-1,MY COMEDY CENTRAL HD
+http://tvku.live:8888/lombok/lombok123/4364
+#EXTINF:-1,MY Crime Investigation HD
+http://tvku.live:8888/lombok/lombok123/4285
+#EXTINF:-1,MY CTI ASIA
+http://tvku.live:8888/lombok/lombok123/4291
+#EXTINF:-1,MY Discovery Asia
+http://tvku.live:8888/lombok/lombok123/4293
+#EXTINF:-1,MY Discovery HD
+http://tvku.live:8888/lombok/lombok123/4294
+#EXTINF:-1,MY Discovery Science HD
+http://tvku.live:8888/lombok/lombok123/4292
+#EXTINF:-1,MY Disney Channel
+http://tvku.live:8888/lombok/lombok123/4295
+#EXTINF:-1,MY Disney Junior
+http://tvku.live:8888/lombok/lombok123/4296
+#EXTINF:-1,MY Disney XD HD
+http://tvku.live:8888/lombok/lombok123/4297
+#EXTINF:-1,MY DMAX HD
+http://tvku.live:8888/lombok/lombok123/4299
+#EXTINF:-1,MY DW HD
+http://tvku.live:8888/lombok/lombok123/4365
+#EXTINF:-1,MY eGG Network
+http://tvku.live:8888/lombok/lombok123/4301
+#EXTINF:-1,MY EUROSPORT HD
+http://tvku.live:8888/lombok/lombok123/4302
+#EXTINF:-1,MY Food Network HD
+http://tvku.live:8888/lombok/lombok123/4303
+#EXTINF:-1,MY Fox Action HD
+http://tvku.live:8888/lombok/lombok123/4391
+#EXTINF:-1,MY FOX HD
+http://tvku.live:8888/lombok/lombok123/4393
+#EXTINF:-1,MY Fox Life HD
+http://tvku.live:8888/lombok/lombok123/4379
+#EXTINF:-1,MY Fox Movies Family HD
+http://tvku.live:8888/lombok/lombok123/4392
+#EXTINF:-1,MY Fox Movies HD
+http://tvku.live:8888/lombok/lombok123/4390
+#EXTINF:-1,MY FOX SPORTS 2 HD
+http://tvku.live:8888/lombok/lombok123/4366
+#EXTINF:-1,MY FOX SPORTS 3 HD
+http://tvku.live:8888/lombok/lombok123/4367
+#EXTINF:-1,MY FOX SPORTS HD
+http://tvku.live:8888/lombok/lombok123/4368
+#EXTINF:-1,MY Golf Channel HD
+http://tvku.live:8888/lombok/lombok123/4307
+#EXTINF:-1,MY HBO HD
+http://tvku.live:8888/lombok/lombok123/4308
+#EXTINF:-1,MY HELLO
+http://tvku.live:8888/lombok/lombok123/4309
+#EXTINF:-1,MY HGTV HD
+http://tvku.live:8888/lombok/lombok123/4310
+#EXTINF:-1,MY HISTORY HD
+http://tvku.live:8888/lombok/lombok123/4311
+#EXTINF:-1,MY HITS HD
+http://tvku.live:8888/lombok/lombok123/4312
+#EXTINF:-1,MY iQIYI HD
+http://tvku.live:8888/lombok/lombok123/4314
+#EXTINF:-1,MY JAYA TV
+http://tvku.live:8888/lombok/lombok123/4315
+#EXTINF:-1,MY KALAIGNAR
+http://tvku.live:8888/lombok/lombok123/4316
+#EXTINF:-1,MY KBS WORLD HD
+http://tvku.live:8888/lombok/lombok123/4317
+#EXTINF:-1,MY KIX HD
+http://tvku.live:8888/lombok/lombok123/4318
+#EXTINF:-1,MY KPLUS HD
+http://tvku.live:8888/lombok/lombok123/4319
+#EXTINF:-1,MY MAKKAL TV
+http://tvku.live:8888/lombok/lombok123/4320
+#EXTINF:-1,MY MTV
+http://tvku.live:8888/lombok/lombok123/4370
+#EXTINF:-1,MY Nat Geo Wild HD
+http://tvku.live:8888/lombok/lombok123/4371
+#EXTINF:-1,MY NAURA
+http://tvku.live:8888/lombok/lombok123/4321
+#EXTINF:-1,MY NICKELODEON
+http://tvku.live:8888/lombok/lombok123/4322
+#EXTINF:-1,MY Oh!K HD
+http://tvku.live:8888/lombok/lombok123/4324
+#EXTINF:-1,MY ONE HD
+http://tvku.live:8888/lombok/lombok123/4325
+#EXTINF:-1,MY RAJ TV
+http://tvku.live:8888/lombok/lombok123/4328
+#EXTINF:-1,MY SETANTA SPORTS
+http://tvku.live:8888/lombok/lombok123/4330
+#EXTINF:-1,MY SUN MUSIC
+http://tvku.live:8888/lombok/lombok123/4333
+#EXTINF:-1,MY SUN TV HD
+http://tvku.live:8888/lombok/lombok123/4334
+#EXTINF:-1,MY TLC HD
+http://tvku.live:8888/lombok/lombok123/4335
+#EXTINF:-1,MY TVB CLASSIC
+http://tvku.live:8888/lombok/lombok123/4339
+#EXTINF:-1,MY TVB E-NEWS
+http://tvku.live:8888/lombok/lombok123/4340
+#EXTINF:-1,MY TVB JADE
+http://tvku.live:8888/lombok/lombok123/4341
+#EXTINF:-1,MY TVB XING HE
+http://tvku.live:8888/lombok/lombok123/4342
+#EXTINF:-1,MY TVBS ASIA
+http://tvku.live:8888/lombok/lombok123/4343
+#EXTINF:-1,MY tvN Movies
+http://tvku.live:8888/lombok/lombok123/4375
+#EXTINF:-1,MY WARNER TV
+http://tvku.live:8888/lombok/lombok123/4376
+#EXTINF:-1,MY WWE NETWORK
+http://tvku.live:8888/lombok/lombok123/4349
+#EXTINF:-1,MY: Nat Geo
+http://tvku.live:8888/lombok/lombok123/15104
+#EXTINF:-1,MY: Nat Geo People
+http://tvku.live:8888/lombok/lombok123/15105
+#EXTINF:-1,MY: Nat Geo Wild
+http://tvku.live:8888/lombok/lombok123/15106
+#EXTINF:-1,MY: Paramount Channel
+http://tvku.live:8888/lombok/lombok123/2363
+#EXTINF:-1,TV1
+http://tvku.live:8888/lombok/lombok123/2262
+#EXTINF:-1,TV2
+http://tvku.live:8888/lombok/lombok123/2263
+#EXTINF:-1,TV3
+http://tvku.live:8888/lombok/lombok123/2264
+#EXTINF:-1,TV8
+http://tvku.live:8888/lombok/lombok123/2333
+#EXTINF:-1,TVB Jade
+http://tvku.live:8888/lombok/lombok123/4347
+#EXTINF:-1,Channel 5
+http://tvku.live:8888/lombok/lombok123/11199
+#EXTINF:-1,Channel 8
+http://tvku.live:8888/lombok/lombok123/11200
+#EXTINF:-1,Channel U
+http://tvku.live:8888/lombok/lombok123/26209
+#EXTINF:-1,Okto
+http://tvku.live:8888/lombok/lombok123/26210
+#EXTINF:-1,Suria
+http://tvku.live:8888/lombok/lombok123/26212
+#EXTINF:-1,Vasantham
+http://tvku.live:8888/lombok/lombok123/26584
+#EXTINF:-1,TTXVN
+http://tvku.live:8888/lombok/lombok123/27069
+#EXTINF:-1,VTV 6
+http://tvku.live:8888/lombok/lombok123/27058
+#EXTINF:-1,VTV5
+http://tvku.live:8888/lombok/lombok123/27066
+#EXTINF:-1,VTV9
+http://tvku.live:8888/lombok/lombok123/27067
+#EXTINF:-1,Chinese Drama
+http://tvku.live:8888/lombok/lombok123/29599
+#EXTINF:-1,CN: CCTV 4
+http://tvku.live:8888/lombok/lombok123/2912
+#EXTINF:-1,CTI Asia
+http://tvku.live:8888/lombok/lombok123/29602
+#EXTINF:-1,ETTV Asia
+http://tvku.live:8888/lombok/lombok123/29597
+#EXTINF:-1,Formosa
+http://tvku.live:8888/lombok/lombok123/29601
+#EXTINF:-1,Kungfu TV
+http://tvku.live:8888/lombok/lombok123/29598
+#EXTINF:-1,Shenzhen International
+http://tvku.live:8888/lombok/lombok123/29596
+#EXTINF:-1,TVBS News
+http://tvku.live:8888/lombok/lombok123/29600
+#EXTINF:-1,Zhejiang International
+http://tvku.live:8888/lombok/lombok123/29595
+#EXTINF:-1,Channel INFO
+http://tvku.live:8888/lombok/lombok123/1
